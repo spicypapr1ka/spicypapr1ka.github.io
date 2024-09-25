@@ -13,7 +13,7 @@ redirect_from:
 
 🔭 My interests are in digital forensics, incident response, machine learning, and data engineering.
 
-🌱 I'm currently working towards the CompTIA Security+ certificaiton and building a homelab.
+🌱 I'm currently working towards the CompTIA Security+ certification and building a homelab.
 
 # Current Projects
 

@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Cybersecurity, University of North Georgia, 2025 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023 - Present: Junior Data Engineer
+  * Capital Cornered, LLC
+  * Transformed and curated raw Federal Elections Commission donor data using Python and Pandas library.
+  * Utilized PositionStack geocoding API for targeted donor outreach.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2023 - June 2023: Congressional Intern
+  * U.S. House of Representatives
+  * Conducted legislative research and managed communication with constituents. 
+  * Aided constituents on issues regarding federal agencies such as the U.S. Citizenship and Immigration Services (USCIS), Social
+  Security Administration (SSA), Department of Defense (DOD), and the Department of State (DOS). 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2020 - November 2022:
+  * Dr. Rich McCormick for Congress
+  * Organized a range of campaign and fundraising events, collaborated with staff and volunteers, and engaged with donors and fundraising activities.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spanish (Heritage, Intermediate)
+* Python (Programming Language)
+  * Data engineering, machine learning, cybersecurity-related tasks
+  * Libraries:
+    * Pandas, NumPy, PyTorch, scikit-learn
+  * PositionStack API
+* Cybersecurity Tools
+  * To be added...
+* Operating Systems
+  * Microsoft Windows 8, 10
+  * MacOS
+  * Kali and Ubuntu Linux
+* Platforms and Services
+  * MongoDB Compass
+  * Anaconda
+    * Jupyter Lab
+  * GitHub
+* Government Affairs
+  * Constituent services
+  * Immigration and economic policies
+* Political Campaigning
+  * Fundraising
+  * Event coordinating
+  * Door-to-door campaigning
   
-Talks
+Extracurricular
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Former Vice President and President for Period Project at GSU
+* Member of CyberHawks at UNG, participating in capture-the-flags and training
