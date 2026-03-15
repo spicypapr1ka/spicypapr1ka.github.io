@@ -17,7 +17,7 @@ I'm a Cuban-American tech and political enthusiast. I'm a Georgia political fund
 ## Current Work
 **Full Stack Development**
 - Backend: Node.js, Express
-- Frontend: Next.js, React, shadcn/ui
+- Frontend: Next.js, React, Tailwind, shadcn/ui
 - SQL, MongoDB, Git
 - PostgreSQL, Docker, Postman, Jira, AWS (S3, Amplify, EC2, Route 53)
 
